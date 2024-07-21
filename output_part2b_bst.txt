@@ -1,0 +1,12 @@
+#Note that it is possible to deviate a little bit from these numbers.
+(The above is just additional information, this should not show up on your output)
+2: 565
+3a: 10.3274
+3b: 1.12966
+4a: 420
+4b: 9.02857
+5a: 161
+5b: 10.7762
+6a: 404
+6b: 10.0025
+6c: 1.15526
